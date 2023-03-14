@@ -1,4 +1,4 @@
-@article{REPO-137,
+@article{REPO-136,
     author = "Li, Ruihui and Li, Xianzhi and Hui, Ka-Hei and Fu, Chi-Wing",
     journal = "ACM Transactions on Graphics (TOG)",
     number = "4",
