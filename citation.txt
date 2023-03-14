@@ -1,0 +1,9 @@
+@article{REPO-137,
+    author = "Li, Ruihui and Li, Xianzhi and Hui, Ka-Hei and Fu, Chi-Wing",
+    journal = "ACM Transactions on Graphics (TOG)",
+    number = "4",
+    pages = "1--12",
+    title = "{SP-GAN: Sphere-Guided 3D Shape Generation and Manipulation}",
+    volume = "40",
+    year = "2021"
+}
